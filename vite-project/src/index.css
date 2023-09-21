@@ -1,0 +1,13 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  box-sizing: border-box;
+}
+
+.active {
+  border-bottom: 2px solid black;
+  transition-property: border-bottom;
+  transition-duration: 0.05s;
+  padding-bottom: 11px;
+  margin-top: 5px;
+  color: black;
+}

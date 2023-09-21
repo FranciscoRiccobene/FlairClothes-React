@@ -1,0 +1,26 @@
+nav {
+  background-color: rgb(249, 249, 249);
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  box-shadow: rgba(149, 157, 165, 0.184) 0px 4px 25px;
+}
+
+.customLi {
+  margin: 0 8px;
+  display: inline-block;
+}
+
+.customLink {
+  text-decoration: none;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.704);
+}
+
+.customLink:hover {
+  color: black;
+}
+
+.customLogo {
+  width: 210px;
+  margin-top: 5px;
+}

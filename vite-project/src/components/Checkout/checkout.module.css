@@ -1,0 +1,71 @@
+.checkoutContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.checkoutList {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 8px 0;
+  padding: 20px;
+  width: 80%;
+  border-radius: 8px;
+  border: 1px solid rgba(128, 128, 128, 0.317);
+  background-color: rgba(233, 233, 233, 0.607);
+}
+
+.checkoutImg {
+  width: 9%;
+  margin-right: 8px;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 6px;
+}
+
+.buyTotal {
+  display: flex;
+  justify-content: end;
+  width: 90%;
+  margin-top: 10px;
+}
+
+.formContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.formBg {
+  padding: 10px;
+  background-color: rgba(233, 233, 233, 0.607);
+  border-radius: 8px;
+  border: 1px solid rgba(128, 128, 128, 0.317);
+}
+
+.btnConfirmContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+
+.btnConfirm {
+  width: 200px;
+}
+
+.loading {
+  align-self: center;
+  margin-bottom: 150px;
+}
+
+.buyConfirmContainer {
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 50px;
+  padding-bottom: 50px;
+  background-color: rgba(233, 233, 233, 0.607);
+  border-radius: 8px;
+  border: 1px solid rgba(128, 128, 128, 0.317);
+}
