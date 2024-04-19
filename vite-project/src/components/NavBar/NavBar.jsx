@@ -8,7 +8,7 @@ const NavBar = () => {
       <div className="container-fluid">
         <Link to="/" className="navbar-brand mb-1">
           <img
-            src="/imgLogo/logo.PNG"
+            src="/imgLogo/logo.png"
             alt="Logo de FlairClothes"
             className={styles.customLogo}
           />
