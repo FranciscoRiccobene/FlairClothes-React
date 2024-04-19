@@ -1,4 +1,4 @@
-# Proyecto Final ReactJS - FlairClothes
+# ReactJS - FlairClothes
 
 ## Descripción 
 El proyecto es un e-commerce de venta de indumentaria. Contiene un componente `NavBar` con los respectivos links a las distintas secciones del sitio, dentro de éste hay un componente `CartWidget` linkeado al carrito que enumera la cantidad de productos en el mismo. Luego pasamos al contenido 
@@ -34,6 +34,6 @@ https://github.com/FranciscoRiccobene/ProyectoFinalReactJS-RiccobeneFrancisco/as
 ### Lenguajes:
 HTML - CSS - JS
 ### Frameworks, librerías y herramientas:
-NodeJs - ReactJS - ViteJs - Bootstrap
+NodeJs - ReactJS - ViteJs - Bootstrap - Firebase
 ### Sistema de control de versiones:
 GIT - GitHub
