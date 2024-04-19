@@ -22,7 +22,7 @@ npm start
 
 ## Link al sitio web desplegado en Vercel
 
-### [FlairClothes](https://flairclothes.vercel.app)
+### - [FlairClothes](https://flairclothes.vercel.app)
 
 ## Demo
 
