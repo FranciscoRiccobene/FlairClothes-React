@@ -1,4 +1,4 @@
-# ReactJS - FlairClothes
+# FlairClothes - ReactJS 
 
 ## Descripción 
 El proyecto es un e-commerce de venta de indumentaria. Contiene un componente `NavBar` con los respectivos links a las distintas secciones del sitio, dentro de éste hay un componente `CartWidget` linkeado al carrito que enumera la cantidad de productos en el mismo. Luego pasamos al contenido 
