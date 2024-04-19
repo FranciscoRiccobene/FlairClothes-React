@@ -45,12 +45,12 @@ const Checkout = ({
               <div key={item.id} className={styles.checkoutList}>
                 <img
                   className={styles.checkoutImg}
-                  src={`../../../src/assets/imgProducts/${item.imagesId.imgA}`}
+                  src={`/imgProducts/${item.imagesId.imgA}`}
                   alt={item.description}
                 />
                 <img
                   className={styles.checkoutImg}
-                  src={`../../../src/assets/imgProducts/${item.imagesId.imgB}`}
+                  src={`/imgProducts/${item.imagesId.imgB}`}
                   alt={item.description}
                 />
                 <h5 className="ms-2 w-25">{item.name}</h5>

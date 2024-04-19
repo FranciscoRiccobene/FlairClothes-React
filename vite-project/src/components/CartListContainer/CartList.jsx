@@ -22,12 +22,12 @@ const CartList = ({
             <h5 className="mb-3 ms-2">Producto</h5>
             <img
               className={styles.cartImg}
-              src={`../../../src/assets/imgProducts/${item.imagesId.imgA}`}
+              src={`/imgProducts/${item.imagesId.imgA}`}
               alt={item.description}
             />
             <img
               className={styles.cartImg}
-              src={`../../../src/assets/imgProducts/${item.imagesId.imgB}`}
+              src={`/imgProducts/${item.imagesId.imgB}`}
               alt={item.description}
             />
             <h5 className="mt-3 ms-2">{item.name}</h5>

@@ -22,12 +22,12 @@ const ItemDetail = ({ item, isLoading, addItem }) => {
   return (
     <div className={styles.customFlex}>
       <img
-        src={`../../../src/assets/imgProducts/${item.imagesId.imgA}`}
+        src={`/imgProducts/${item.imagesId.imgA}`}
         className={`shadow-sm ${styles.customImg}`}
         alt={item.description}
       />
       <img
-        src={`../../../src/assets/imgProducts/${item.imagesId.imgB}`}
+        src={`/imgProducts/${item.imagesId.imgB}`}
         className={styles.customImg}
         alt={item.description}
       />
