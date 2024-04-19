@@ -20,7 +20,7 @@ npm start
 - `VITE_FIRESTORE_MESSAGING_SENDER_ID` = El ID del sender de Firebase.
 - `VITE_FIRESTORE_APP_ID` = El ID de la aplicación de Firebase.
 
-##Link al sitio web desplegado en Vercel
+## Link al sitio web desplegado en Vercel
 
 ### [FlairClothes](https://flairclothes.vercel.app)
 
