@@ -11,7 +11,7 @@ const CartList = ({
   total,
 }) => {
   if (cart.length === 0) {
-    return <h2 className="text-center mt-5">El Carrito está vacío...</h2>;
+    return <h2 className="text-center mt-5">El carrito está vacío...</h2>;
   }
 
   return (
